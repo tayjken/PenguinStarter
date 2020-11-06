@@ -1,0 +1,16 @@
+img{
+    width:100px;
+    height:100px;
+}
+th{
+    border:2px solid black;
+}
+td{
+    border:2px solid black;
+}
+tr{
+    font-sixe:18px;
+    font-weight:bold;
+    font-style:normal;
+    font-family:monospace;
+}
